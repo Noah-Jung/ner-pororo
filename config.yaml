@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    khc:
+      email: noah.loha@kakaohealthcare.com
+      failed_login_attempts: 0 # Will be managed automatically
+      logged_in: False # Will be managed automatically
+      name: noah.loha
+      password: khc!@# # Will be hashed automatically
+cookie:
+  expiry_days: 0
+  key: khc_key # Must be string
+  name: khc_cookie
+pre-authorized:
+  emails:
+  - melsby@gmail.com
